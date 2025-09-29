@@ -10,7 +10,7 @@ import Settings from './pages/Settings';
 import Analytics from './pages/Analytics';
 import EnrollmentServices from './pages/EnrollmentServices';
 import SignInPage from './pages/SignIn';
-import SignUpPage from './pages/SignUp';
+import SignUpPage from './pages/Signup';
 import Layout from './components/Layout';
 
 function ProtectedRoutes() {
